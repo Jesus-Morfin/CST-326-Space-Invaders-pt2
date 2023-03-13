@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - Enemy
+  - Laser
+  - OutOfBounds
+  - Barricade
+  - Mystery Ship
+  - Invader 1
+  - Invader 2
+  - Invader 3
+  - Enemy Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Laser
+  - Invader 1
+  - Invader 2
+  - Invader 3
+  - Mystery Ship
+  - Player
+  - Barricade
+  - Enemy Laser
+  - Walls
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
